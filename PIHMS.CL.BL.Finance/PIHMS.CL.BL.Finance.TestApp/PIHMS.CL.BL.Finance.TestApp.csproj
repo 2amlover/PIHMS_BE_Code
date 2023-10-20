@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.32.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PIHMS.CL.BL.Finance\PIHMS.CL.BL.Finance.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PIHMS.CL.API.IO">
+      <HintPath>..\..\PIHMS.ClassLibrary\PIHMS.CL.API.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="PIHMS.CL.API.Util">
+      <HintPath>..\..\PIHMS.ClassLibrary\PIHMS.CL.API.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="PIHMS.CL.DB.Table">
+      <HintPath>..\..\PIHMS.ClassLibrary\PIHMS.CL.DB.Table.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

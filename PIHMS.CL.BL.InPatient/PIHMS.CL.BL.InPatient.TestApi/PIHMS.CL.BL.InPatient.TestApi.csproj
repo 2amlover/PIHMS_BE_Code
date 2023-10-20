@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PIHMS.CL.API.IO">
+      <HintPath>..\..\..\DLLs\PIHMS.CL.API.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="PIHMS.CL.API.Util">
+      <HintPath>..\..\..\DLLs\PIHMS.CL.API.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="PIHMS.CL.DB.Table">
+      <HintPath>..\..\..\DLLs\PIHMS.CL.DB.Table.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="JsonFile\" />
+  </ItemGroup>
+
+</Project>

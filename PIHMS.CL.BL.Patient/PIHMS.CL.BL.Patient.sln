@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIHMS.CL.BL.Patient", "PIHMS.CL.BL.Patient\PIHMS.CL.BL.Patient.csproj", "{31F3AF76-617D-48AA-9C68-2A30B9F0B0A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIHMS.CL.BL.Patient.TestApp", "PIHMS.CL.BL.Patient.TestApp\PIHMS.CL.BL.Patient.TestApp.csproj", "{3A063B02-46DB-4371-B7AB-A6DC86C04A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F3AF76-617D-48AA-9C68-2A30B9F0B0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F3AF76-617D-48AA-9C68-2A30B9F0B0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F3AF76-617D-48AA-9C68-2A30B9F0B0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F3AF76-617D-48AA-9C68-2A30B9F0B0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A063B02-46DB-4371-B7AB-A6DC86C04A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A063B02-46DB-4371-B7AB-A6DC86C04A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A063B02-46DB-4371-B7AB-A6DC86C04A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A063B02-46DB-4371-B7AB-A6DC86C04A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {044EBE8A-8337-448A-A81E-003D11B85B42}
+	EndGlobalSection
+EndGlobal

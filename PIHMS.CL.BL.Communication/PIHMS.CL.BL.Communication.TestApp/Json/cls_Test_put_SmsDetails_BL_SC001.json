@@ -1,0 +1,36 @@
+{
+  "ml_Column": [],
+  "m_Communication": {
+    "ID": 0,
+    "PhoneNumber": "9972513554",
+    "SMSText": "ghfyuf",
+    "DiagID": "249874",
+    "SMSStatus": "g7g",
+    "SendBy": "yuuf",
+    "SendingDateTime": "2023-04-05",
+    "IsRowDeleted": null
+  },
+  "MName": null,
+  "Version": null,
+  "Priority": null,
+  "ReturnValue": 0,
+  "Status": null,
+  "ReturnMessage": null,
+  "CreatedDateTime": "0001-01-01T00:00:00",
+  "CreatedMachineName": null,
+  "CreatedMachineIPAddress": null,
+  "CreatedProcessName": null,
+  "CreatedProcessVersion": null,
+  "CreatedUserName": null,
+  "CreatedUserRole": null,
+  "CreatedUserRoleID": null,
+  "CreatedUserID": null,
+  "CreatedUserCredentials": null,
+  "ReceivedDateTime": null,
+  "ReceivedMachineName": null,
+  "ReceivedMachineIPAddress": null,
+  "ReceivedProcessName": null,
+  "ReceivedProcess": null,
+  "UserDBConnStr": null
+
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIHMS.CL.BL.Inventory", "PIHMS.CL.BL.Inventory\PIHMS.CL.BL.Inventory.csproj", "{1E22CA9E-F3E7-491A-98B5-D1309DFA645C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIHMS.CL.BL.Inventory.TestApp", "PIHMS.CL.BL.Inventory.TestApp\PIHMS.CL.BL.Inventory.TestApp.csproj", "{AA8D356B-5F40-4A6E-B8CD-DFB8B0E081EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E22CA9E-F3E7-491A-98B5-D1309DFA645C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E22CA9E-F3E7-491A-98B5-D1309DFA645C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E22CA9E-F3E7-491A-98B5-D1309DFA645C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E22CA9E-F3E7-491A-98B5-D1309DFA645C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8D356B-5F40-4A6E-B8CD-DFB8B0E081EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8D356B-5F40-4A6E-B8CD-DFB8B0E081EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8D356B-5F40-4A6E-B8CD-DFB8B0E081EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8D356B-5F40-4A6E-B8CD-DFB8B0E081EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176BDBFD-2D36-4FE1-9566-6DBF7CD3AECC}
+	EndGlobalSection
+EndGlobal

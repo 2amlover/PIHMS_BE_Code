@@ -1,0 +1,189 @@
+{
+  "ml_StaffPayroll": [
+    {
+      "m_Staffpayroll": {
+        "id": 1,
+        "staffID": 749,
+        "staffName": "Lalithamma",
+        "basicPay": 11605,
+        "hra": 595,
+        "conveyannceAllowance": 0,
+        "variableAllownace": 1378,
+        "providentFund": 0,
+        "yearlyBonus": 0,
+        "description": "Monthly payroll",
+        "verifiedStaffID": 456,
+        "verifiedStaffName": "Jane Smith",
+        "verifiedDate": "2023-06-30T00:00:00",
+        "verifiedDescription": "Payroll verified",
+        "grossSalary": 9500,
+        "notes": "Additional notes",
+        "branchID": 789,
+        "departmentID": 567,
+        "createdStaffID": 123,
+        "createdDateTime": "2023-06-30T10:00:00",
+        "updatedStaffID": 123,
+        "updatedDateTime": "2023-06-30T12:00:00",
+        "isRowDeleted": "N"
+      },
+      "ml_StaffSalaryEarning": [
+        {
+          "id": 1,
+          "staffID": "749",
+          "name": "BASIC",
+          "amount": 11605.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 2,
+          "staffID": "749",
+          "name": "HRA",
+          "amount": 595.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 3,
+          "staffID": "749",
+          "name": "CA",
+          "amount": 0.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 4,
+          "staffID": "749",
+          "name": "MA",
+          "amount": 0.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 5,
+          "staffID": "749",
+          "name": "VA",
+          "amount": 1378.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 6,
+          "staffID": "749",
+          "name": "PB",
+          "amount": 0.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        }
+      ],
+      "ml_StaffSalaryDeduction": [
+        {
+          "id": 1,
+          "staffID": "749",
+          "name": "PF",
+          "amount": 1393.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 2,
+          "staffID": "749",
+          "name": "PT",
+          "amount": 0.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 3,
+          "staffID": "749",
+          "name": "TDS",
+          "amount": 0.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 4,
+          "staffID": "749",
+          "name": "ESI",
+          "amount": 214.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 5,
+          "staffID": "749",
+          "name": "ADV",
+          "amount": 700.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        },
+        {
+          "id": 6,
+          "staffID": "749",
+          "name": "CA",
+          "amount": 0.00,
+          "createdStaffID": "1983",
+          "createdDateTime": "2019-05-21T08:11:43",
+          "updatedStaffID": "1983",
+          "updatedDateTime": "2019-08-22T09:53:04",
+          "isRowDeleted": "N"
+        }
+      ]
+    }
+  ],
+  "mName": null,
+  "version": null,
+  "priority": null,
+  "returnValue": 0,
+  "status": null,
+  "returnMessage": null,
+  "createdDateTime": "0001-01-01T00:00:00",
+  "createdMachineName": null,
+  "createdMachineIPAddress": null,
+  "createdProcessName": null,
+  "createdProcessVersion": null,
+  "createdUserName": null,
+  "createdUserRole": null,
+  "createdUserRoleID": null,
+  "createdUserID": null,
+  "createdUserCredentials": null,
+  "receivedDateTime": null,
+  "receivedMachineName": null,
+  "receivedMachineIPAddress": null,
+  "receivedProcessName": null,
+  "receivedProcess": null,
+  "userDBConnStr": null
+}

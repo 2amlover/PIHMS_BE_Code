@@ -1,0 +1,38 @@
+{
+  "mName": "string",
+  "version": "string",
+  "priority": "string",
+  "returnValue": 0,
+  "status": "string",
+  "returnMessage": "string",
+  "createdDateTime": "2023-07-24T10:03:52.959Z",
+  "createdMachineName": "string",
+  "createdMachineIPAddress": "string",
+  "createdProcessName": "string",
+  "createdProcessVersion": "string",
+  "createdUserName": "string",
+  "createdUserRole": "string",
+  "createdUserRoleID": "string",
+  "createdUserID": "string",
+  "createdUserCredentials": "string",
+  "receivedDateTime": "string",
+  "receivedMachineName": "string",
+  "receivedMachineIPAddress": "string",
+  "receivedProcessName": "string",
+  "receivedProcess": "string",
+  "userDBConnStr": "string",
+  "m_FilterOptions": {
+    "m_ID": 0,
+    "m_Type": 3,
+    "m_Search": "Yog0032",
+    "ml_SearchColumns": [
+      "string"
+    ],
+    "m_Limit": "10",
+    "m_OrderBy": "id",
+    "m_Duration": "string",
+    "m_CrDtStart": "2023-07-24T10:03:52.959Z",
+    "m_CrDtEnd": "2023-07-24T10:03:52.959Z",
+    "m_WhereCondition": "string"
+  }
+}

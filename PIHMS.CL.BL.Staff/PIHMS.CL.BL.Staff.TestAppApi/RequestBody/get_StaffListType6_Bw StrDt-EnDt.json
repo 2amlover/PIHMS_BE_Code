@@ -1,0 +1,37 @@
+{
+  "m_FilterOptions": {
+    "m_ID": 0,
+    "m_Type": 6,
+    "m_Search": null,
+    "ml_SearchColumns": null,
+    "m_Limit": null,
+    "m_OrderBy": null,
+    "m_Duration": null,
+    "m_CrDtStart": "0001-01-01T00:00:00",
+    "m_CrDtEnd": "0001-01-01T00:00:00",
+    "m_WhereCondition": " WHERE CreatedDateTime BETWEEN '2014-10-10T12:52:11' AND '2014-10-11T20:36:14' ORDER BY id ASC LIMIT 10"
+  },
+  "MName": null,
+  "Version": null,
+  "Priority": null,
+  "ReturnValue": 0,
+  "Status": null,
+  "ReturnMessage": null,
+  "CreatedDateTime": "0001-01-01T00:00:00",
+  "CreatedMachineName": null,
+  "CreatedMachineIPAddress": null,
+  "CreatedProcessName": null,
+  "CreatedProcessVersion": null,
+  "CreatedUserName": null,
+  "CreatedUserRole": null,
+  "CreatedUserRoleID": null,
+  "CreatedUserID": null,
+  "CreatedUserCredentials": null,
+  "ReceivedDateTime": null,
+  "ReceivedMachineName": null,
+  "ReceivedMachineIPAddress": null,
+  "ReceivedProcessName": null,
+  "ReceivedProcess": null,
+  "UserDBConnStr": null
+
+}

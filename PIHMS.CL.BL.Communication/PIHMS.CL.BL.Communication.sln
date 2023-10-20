@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIHMS.CL.BL.Communication", "PIHMS.CL.BL.Communication\PIHMS.CL.BL.Communication.csproj", "{17B1B247-2B58-4E8F-9D06-4E0262B64B5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIHMS.CL.BL.Communication.TestApp", "PIHMS.CL.BL.Communication.TestApp\PIHMS.CL.BL.Communication.TestApp.csproj", "{68BA21AF-B739-4430-AF5B-4C3435654B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B1B247-2B58-4E8F-9D06-4E0262B64B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B1B247-2B58-4E8F-9D06-4E0262B64B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B1B247-2B58-4E8F-9D06-4E0262B64B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B1B247-2B58-4E8F-9D06-4E0262B64B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BA21AF-B739-4430-AF5B-4C3435654B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BA21AF-B739-4430-AF5B-4C3435654B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BA21AF-B739-4430-AF5B-4C3435654B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BA21AF-B739-4430-AF5B-4C3435654B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B71FF6-5592-411D-8A17-01E86CBED252}
+	EndGlobalSection
+EndGlobal
